@@ -1,6 +1,6 @@
 # Polymarket Copy Trading Bot
 
-A TypeScript Polymarket Copy Trading bot that copies trades from any Polymarket wallet. Monitors a target address, detects trades, and automatically replicates them on your account. Works with regular wallets and proxy/Safe wallets.
+A TypeScript Polymarket Copy Trading bot that copies trades from any Polymarket wallet. Monitors a target address, detects trades, and automatically replicates them on your account. Works with regular wallets and proxy/Safe wallets. The system supports both EOA and proxy/Safe authentication using signature types 0, 1, and 2.
 
 ## What it does
 
